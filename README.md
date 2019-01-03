@@ -1,5 +1,5 @@
-# WeekProject-DDP
-# Course Project Coursera Developing Data Products
+# Week 4 - Course Project in Developing Data Products
+
 Repository for Coursera Developing Data Products Course Project
 
 This project have two parts:
